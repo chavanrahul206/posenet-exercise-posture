@@ -3,7 +3,7 @@
 
 # Workout  Assistance - Yogic Posture Exercises (Yogasana)
 
-<img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/HomePage.png" alt="Home" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/BeginnerPage.png" alt="Beginner" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/IntermediatePage.png" alt="Intermediate" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/AdvancePage.png" alt="Advance" height="350"/>
+<img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/BeginnerPage.png" alt="Beginner" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/IntermediatePage.png" alt="Intermediate" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/AdvancePage.png" alt="Advance" height="350"/>
 
 <img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/ProfilePage.png" alt="Profile" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/UpdateProfilePage.png" alt="Update Profile" height="350"/><img src="https://github.com/chavanrahul206/posenet-yoga-exercise-posture/tree/master/screenshots/Inference.png" alt="Inference" height="350"/>
 
